@@ -1,4 +1,5 @@
 #!/bin/sh
+# Adding comments in UI
 
 # Reports Active Directory Status
 

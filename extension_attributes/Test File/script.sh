@@ -1,5 +1,5 @@
 #!/bin/sh
-if [ -e /Users/anakin.skywalker/Desktop/test-modified-2.txt ]
+if [ -e /Users/anakin.skywalker/Desktop/test.txt ]
 then 
   echo "<result>True</result>"
 else
