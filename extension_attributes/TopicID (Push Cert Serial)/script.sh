@@ -1,4 +1,5 @@
 #!/bin/sh
+# Adding some comments here as a test to see if this gets pushed
 topicID=`/usr/sbin/system_profiler SPConfigurationProfileDataType | awk '/Topic/{ print $NF }' | sed 's/[";]//g'`
 
 if [ $topicID == "" ]; then
