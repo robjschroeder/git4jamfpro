@@ -21,7 +21,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install libxml2-utils xmlstarlet -y
 
       - name: Push Changes to Jamf Pro Server 1
-        run: ./git4jamfpro.sh --url ${{ vars.JAMF_PRO_URL_1 }} --username ${{ vars.API_USER }} --password ${{ secrets.API_PASS_1 }} --push-changes-to-jamf-pro --backup-updated
+        run: ./git4jamfpro.sh --url ${{ secrets.JAMF_PRO_URL_1 }} --username ${{ secrets.API_USER }} --password ${{ secrets.API_PASS_1 }} --push-changes-to-jamf-pro --backup-updated
         
       - name: Archive Backups
         uses: actions/upload-artifact@v3
