@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Test File</name>
+  <enabled>true</enabled>
+  <description>This will find if the computer has the file in it</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>Extension Attributes</inventory_display>
+</computer_extension_attribute>

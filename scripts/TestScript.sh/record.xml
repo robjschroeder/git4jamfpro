@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>TestScript.sh</name>
+  <category>Scripts</category>
+  <info>This is the information box in Jamf Pro</info>
+  <notes>This is where you would store your notes about this script. </notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Parameter4</parameter4>
+    <parameter5>Parameter5</parameter5>
+  </parameters>
+  <os_requirements>10.15.1</os_requirements>
+</script>

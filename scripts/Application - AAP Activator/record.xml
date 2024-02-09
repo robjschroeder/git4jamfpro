@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Application - AAP Activator</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Script Log Location [ /var/log/com.company.log ] (i.e., Your organization's default location for client-side logs)</parameter4>
+    <parameter5>The custom trigger used to call the App Auto-Patch Jamf Policy [ex: AppAutoPatch ]</parameter5>
+    <parameter6>The number of days until the activator resets the patching status to False [ integer ]</parameter6>
+    <parameter11>Debug Mode [ true | false (default) | verbose ] Adds additional logging</parameter11>
+  </parameters>
+  <os_requirements/>
+</script>

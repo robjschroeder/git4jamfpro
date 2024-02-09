@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Install Developer Utils Script</name>
+  <category>Utilities</category>
+  <info>Installs utilities for developers</info>
+  <notes>Should be able to be re-run without problem.</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>1</parameter4>
+    <parameter5>2</parameter5>
+    <parameter6>3</parameter6>
+    <parameter7>4</parameter7>
+    <parameter8>5</parameter8>
+    <parameter9>6</parameter9>
+    <parameter10>7</parameter10>
+    <parameter11>8</parameter11>
+  </parameters>
+  <os_requirements>10.10.x</os_requirements>
+</script>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>NetworkDrive - Map Network Drive</name>
+  <category>Utilities</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Protocol (AFP | SMB)</parameter4>
+    <parameter5>ServerName</parameter5>
+    <parameter6>ShareName</parameter6>
+  </parameters>
+  <os_requirements/>
+</script>

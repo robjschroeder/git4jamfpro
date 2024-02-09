@@ -1,0 +1,1 @@
+/usr/sbin/softwareupdate --fetch-full-installer --full-installer-version 11.6.1

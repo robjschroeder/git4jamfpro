@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>macOS - Upgrade Script</name>
+  <category>Utilities</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Path to macOS Installer</parameter4>
+    <parameter5>macOS Installer Version</parameter5>
+    <parameter6>Download Installer Policy Trigger</parameter6>
+    <parameter7>Installer MD5 checksum</parameter7>
+    <parameter8>Upgrade(0) or Erase(1)</parameter8>
+    <parameter9>User dialog - Fullscreen(0) or Dialog(1)</parameter9>
+    <parameter10>DO NOT USE</parameter10>
+    <parameter11>DO NOT USE</parameter11>
+  </parameters>
+  <os_requirements/>
+</script>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Get Sysdiagnose</name>
+  <category>No category assigned</category>
+  <info>This script will run a sysdiagnose on the computer and will then upload the zipped folder to the computer's inventory record. </info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>API User</parameter4>
+    <parameter5>API Pass</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

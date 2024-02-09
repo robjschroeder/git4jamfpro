@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Application - App Auto-Patch</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes>Version 2.0.4, uploaded 01.04.2024, @robjschroeder</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Interactive Mode [ 0 (Completely Silent) | 1 (Silent Discovery, Interactive Patching) | 2 (Full Interactive) (default) ]</parameter4>
+    <parameter5>A space-separated list of Installomator labels to ignore (i.e., "microsoft* googlechrome* jamfconnect zoom* 1password* firefox* swiftdialog")</parameter5>
+    <parameter6>A space-separated list of required Installomator labels (i.e., "firefoxpkg_intl")</parameter6>
+    <parameter7>A space-separated list of optional Installomator labels (i.e., "renew") ** Does not support wildcards **</parameter7>
+    <parameter8>A space-separated list of options to override default Installomator options (i.e., BLOCKING_PROCESS_ACTION=prompt_user NOTIFY=silent LOGO=appstore)</parameter8>
+    <parameter9>Number of times a user is allowed to defer before being forced to install updates. A value of "Disabled" will not display the deferral prompt. [ `integer` | Disabled (default) ]</parameter9>
+  </parameters>
+  <os_requirements/>
+</script>

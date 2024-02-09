@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Jamf Protect - Screenshot Remediation</name>
+  <category>Security</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

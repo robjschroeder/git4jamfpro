@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Maintenance - Environment Test</name>
+  <category>Utilities</category>
+  <info>Tool will evaluate the user's environment and the ability to reach management endpoints. Report will be uploaded to the computer's inventory record.</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>apiUsername</parameter4>
+    <parameter5>apiPassword</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

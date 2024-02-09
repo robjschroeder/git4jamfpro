@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Inventory - General - Rename Computer</name>
+  <category>Inventory</category>
+  <info>This script will rename a computer to the $4-serialNumber naming scheme. The prefix ($4) can be defined in the policy used to run the script.</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Computer Name Prefix</parameter4>
+  </parameters>
+  <os_requirements/>
+</script>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - EraseInstall - Open</name>
+  <category>Applications</category>
+  <info>Opens the EraseInstall.app if currently installed. </info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

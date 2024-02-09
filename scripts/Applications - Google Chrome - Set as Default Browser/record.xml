@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - Google Chrome - Set as Default Browser</name>
+  <category>Applications</category>
+  <info>Sets Google Chrome as default browser</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

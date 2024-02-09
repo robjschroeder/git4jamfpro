@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Protect - Remediate - Login and Logout Hooks</name>
+  <category>Jamf Protect</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

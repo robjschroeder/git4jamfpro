@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>api-LogCollection</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>apiUsername</parameter4>
+    <parameter5>apiPassword</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

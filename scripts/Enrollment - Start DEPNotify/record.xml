@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Enrollment - Start DEPNotify</name>
+  <category>Enrollment</category>
+  <info>Master script for DEPNotify used for Mac enrollments in Jamf</info>
+  <notes># Start DEPNotify Script
+#
+# Author: Alex Fajerman (alex.fajerman@insight.com)
+# Creation date: 2022-03-04
+# Last modified date: 2022-06-28</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Fullscreen (true/false)</parameter4>
+    <parameter5>EnableNoSleep (true/false)</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

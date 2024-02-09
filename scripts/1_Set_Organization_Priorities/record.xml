@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>1_Set_Organization_Priorities</name>
+  <category>Security</category>
+  <info>Script to set Organization Priortities on Macs in accordance with CIS Benchmarks</info>
+  <notes>Admins set organizational compliance for each listed item, which gets written to plist.
+Values default to "true," and must be commented to "false" to disregard as an organizational priority.
+Writes to /Library/Application Support/SecurityScoring/org_security_score.plist by default.</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Inventory - Rename Computer</name>
+  <category>Inventory</category>
+  <info>This script will rename the computer to match the serial number of the computer.</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

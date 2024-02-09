@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - Installomator</name>
+  <category>Applications</category>
+  <info>This script can be used to automate installation and patching of some software titles. </info>
+  <notes>VERSION="9.0dev"
+VERSIONDATE="2021-11-23"</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>App Label</parameter4>
+  </parameters>
+  <os_requirements/>
+</script>

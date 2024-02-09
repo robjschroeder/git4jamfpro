@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>3_Security_Remediation</name>
+  <category>Security</category>
+  <info>Brings computers into compliance with organization priorities.</info>
+  <notes>Reads from plist at /Library/Application Support/SecurityScoring/org_security_score.plist by default.
+For "true" items, runs query for current computer/user compliance.
+Non-compliant items are logged to /Library/Application Support/SecurityScoring/org_audit</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

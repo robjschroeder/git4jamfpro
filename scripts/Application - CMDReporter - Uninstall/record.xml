@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Application - CMDReporter - Uninstall</name>
+  <category>Applications</category>
+  <info>This script will uninstall CMDReporter if currently installed. </info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

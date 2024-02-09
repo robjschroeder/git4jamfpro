@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - Jamf Connect - Uninstall</name>
+  <category>Applications</category>
+  <info>This script is used to uninstall Jamf Connect. </info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Security - Set Firewall</name>
+  <category>Configuration</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>GlobalState (On | Off)</parameter4>
+    <parameter5>AllowSigned (On | Off)</parameter5>
+    <parameter6>Block All (On | Off)</parameter6>
+    <parameter7>Logging Mode (On | Off)</parameter7>
+  </parameters>
+  <os_requirements/>
+</script>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Security - CISBenchmarks - 3 SecurityRemediations</name>
+  <category>CIS Benchmarks</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

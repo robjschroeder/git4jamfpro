@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - macOS - Fetch Big Sur 11.6.1</name>
+  <category>Applications</category>
+  <info>This script will download macOS 11.6.1 and place it in /Applications using the softwareupdate binary. </info>
+  <notes>--full-installer-version 11.6.1</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

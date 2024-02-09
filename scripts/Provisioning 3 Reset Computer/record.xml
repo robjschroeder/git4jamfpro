@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Provisioning 3 Reset Computer</name>
+  <category>Provisioning</category>
+  <info/>
+  <notes>Created by Jamf Provisioner. This script will be associated with the Provisioning 3 policy that will be made available in Self Service. It is recommended that you scope that policy only to users who should be able to wipe and reprovision their devices. When run this script will first check to make sure that the "Install macOS" app and the target computer are both on the same OS version. If so, it will initiate an erase and install process and return the computer to the Setup Assistant brand new. If not, it will initiate an upgrade. This is because in order to use the --eraseinstall flag, the version numbers must match. Once the upgrade is completed the policy can be run again and then it will wipe the machine since the version numbers match. This script also utilizes Jamf Helper to block out the screen while the installer initializes to prevent the user from accidentally breaking the process.</notes>
+  <priority>Before</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

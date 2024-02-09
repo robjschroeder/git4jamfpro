@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>OS - Apple Software Updates</name>
+  <category>No category assigned</category>
+  <info>Script will prompt/encourage users to update by navigating them to Sys Prefs &gt; Software Updates. By the end of the deferral period, updates will be installed. </info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Optional: Number of postponements allowed. Default: 3</parameter4>
+    <parameter5>Optional: Number of seconds dialog should remain up. Default: 900 seconds</parameter5>
+    <parameter6>Optional: Number of seconds dialog should remain up for Apple Silicon Macs</parameter6>
+    <parameter7>Optional: Contact email, number, or department name used in messaging</parameter7>
+    <parameter8>Optional: Set your own custom icon</parameter8>
+  </parameters>
+  <os_requirements/>
+</script>

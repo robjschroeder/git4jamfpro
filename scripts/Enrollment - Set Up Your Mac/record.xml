@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Enrollment - Set Up Your Mac</name>
+  <category>Enrollment</category>
+  <info>version 1.6.0</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Script Log</parameter4>
+    <parameter5>Debug Mode</parameter5>
+    <parameter6>Welcome Dialog</parameter6>
+    <parameter7>Completed Action</parameter7>
+  </parameters>
+  <os_requirements/>
+</script>

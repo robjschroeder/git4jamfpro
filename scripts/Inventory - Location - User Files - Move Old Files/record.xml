@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Inventory - Location - User Files - Move Old Files</name>
+  <category>Inventory</category>
+  <info>This script will prompt the user for their old home folder directory and will move the files located there to their new home folder directory. This is particularly useful when accounts are not migrated when using Jamf Connect workflows. </info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

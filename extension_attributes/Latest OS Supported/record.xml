@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Latest OS Supported</name>
+  <enabled>true</enabled>
+  <description>Populates the EA with the latest OS Supported on the computer. EA has been updated to include macOS Ventura. 
+https://github.com/MLBZ521/MacAdmin/blob/master/Jamf%20Pro/Extension%20Attributes/Get-LatestOSSupported.sh</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>Extension Attributes</inventory_display>
+</computer_extension_attribute>

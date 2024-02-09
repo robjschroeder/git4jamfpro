@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Configure - Set TimeZone</name>
+  <category>Configuration</category>
+  <info>Script will set timezone to the timezone declared in $4.</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>TimeZone</parameter4>
+  </parameters>
+  <os_requirements/>
+</script>

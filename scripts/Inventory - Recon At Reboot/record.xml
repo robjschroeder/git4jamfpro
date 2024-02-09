@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Inventory - Recon At Reboot</name>
+  <category>Inventory</category>
+  <info>Creates a LaunchDaemon and script to run a Jamf Recon
+at next reboot. (Based on script by @dan-snelson)
+
+Created 08.29.2022 @robjschroeder</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>plistDomain (com.org)</parameter4>
+    <parameter5>plistLabel (ReconAtReboot)</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

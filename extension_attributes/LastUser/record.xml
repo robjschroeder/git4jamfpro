@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>LastUser</name>
+  <enabled>true</enabled>
+  <description/>
+  <data_type>String</data_type>
+  <input_type>
+    <type>Text Field</type>
+  </input_type>
+  <inventory_display>General</inventory_display>
+</computer_extension_attribute>

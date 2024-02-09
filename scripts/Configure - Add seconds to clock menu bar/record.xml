@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Configure - Add seconds to clock menu bar</name>
+  <category>Configuration</category>
+  <info>This script will write to the com.apple.menuextra.clock plist in the users' Library/Preferences/ folder.</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - Uninstall Specific Application</name>
+  <category>Applications</category>
+  <info>This script can be used with a policy to uninstall a given application through the parameters. It can also remove the identified plist associated with the application.</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>application</parameter4>
+  </parameters>
+  <os_requirements/>
+</script>

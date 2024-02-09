@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Applications - Apple Remote Desktop - EnableARD.sh</name>
+  <category>Applications</category>
+  <info>Enables ARD for specified users and optionally configures for directory based authentication.</info>
+  <notes>ADMINUSER="$4";
+ADMINGROUP="$5";</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>admin user</parameter4>
+    <parameter5>admin group</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

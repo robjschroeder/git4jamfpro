@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Software Updates - S.U.P.E.R.M.A.N.</name>
+  <category>Software Updates</category>
+  <info>S.U.P.E.R.M.A.N.
+Software Update/Upgrade Policy Enforcement (with) Recursive Messaging And Notification
+
+S.U.P.E.R.M.A.N. optimizes the macOS update/upgarde experience.
+by Kevin M. White
+
+Version 3.0b10
+Date 2023/03/29
+https://github.com/Macjutsu/super</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

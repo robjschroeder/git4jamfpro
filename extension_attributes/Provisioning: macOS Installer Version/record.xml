@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Provisioning: macOS Installer Version</name>
+  <enabled>true</enabled>
+  <description>Created by Jamf Provisioner. This will print out the version number of the current "Install macOS" application on the computer staged in /private/var/macOSInstaller. If it reports back "Not Installed" that means the app has not yet been staged on that computer.</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>script</type>
+    <platform>Mac</platform>
+  </input_type>
+  <inventory_display>Operating System</inventory_display>
+</computer_extension_attribute>
